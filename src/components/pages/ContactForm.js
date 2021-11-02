@@ -84,7 +84,7 @@ const ContactForm = () => {
         <div className="contactSection">
             <div className="container">
                 <form id="formasd" name="contactForm">
-                    <h1>Let's Talk.</h1>
+                    <h1>Contact Us</h1>
 
                     <div className="contactItems">
                         <span className="iContact">

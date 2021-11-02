@@ -14,13 +14,13 @@ function Cards() {
                             src="images/e.jpg"
                             text="Explore Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec efficitur nibh non tempor tempor."
                             label="Companies"
-                            path="/services"
+                            path="/blogarticlepage"
                         />
                          <CardItem
                             src="images/f.jpg"
                             text="Explore Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec efficitur nibh non tempor tempor."
                             label="Luxury Weddings"
-                            path="/services"
+                            path="/blogarticlepage"
                         />
                     </ul>
 
@@ -29,19 +29,19 @@ function Cards() {
                             src="images/g.jpg"
                             text="Explore Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec efficitur nibh non tempor tempor."
                             label="Stage Shows"
-                            path="/services"
+                            path="/blogarticlepage"
                         />
                          <CardItem
                             src="images/h.jpg"
                             text="Explore Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec efficitur nibh non tempor tempor."
                             label="Parties"
-                            path="/services"
+                            path="/blogarticlepage"
                         />
                          <CardItem
                             src="images/i.jpg"
                             text="Explore Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec efficitur nibh non tempor tempor."
                             label="Special Location Events"
-                            path="/services"
+                            path="/blogarticlepage"
                         />
                     </ul>
                 </div>
