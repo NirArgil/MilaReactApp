@@ -25,6 +25,7 @@ const ContactForm = () => {
         var z = document.forms["contactForm"]["message"].value;
         var p = document.forms["contactForm"]["phoneNum"].value;
 
+        //eslint-disable-next-line
         if (x == "" || x == null || y == "" || y == null || z == "" || z == null || p == "" || p == null) {
             setData({
                 ...data,
