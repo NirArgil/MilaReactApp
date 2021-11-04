@@ -11,13 +11,13 @@ function Cards() {
                 <div className="cards__wrapper">
                     <ul className="cards__items">
                         <CardItem
-                            src="images/e.jpg"
+                            src="images/e.webp"
                             text="Explore Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec efficitur nibh non tempor tempor."
                             label="Companies"
                             path="/blogarticlepage"
                         />
                          <CardItem
-                            src="images/f.jpg"
+                            src="images/f.webp"
                             text="Explore Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec efficitur nibh non tempor tempor."
                             label="Luxury Weddings"
                             path="/blogarticlepage"
@@ -26,7 +26,7 @@ function Cards() {
 
                     <ul className="cards__items">
                         <CardItem
-                            src="images/g.jpg"
+                            src="images/g.webp"
                             text="Explore Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec efficitur nibh non tempor tempor."
                             label="Stage Shows"
                             path="/blogarticlepage"
@@ -38,7 +38,7 @@ function Cards() {
                             path="/blogarticlepage"
                         />
                          <CardItem
-                            src="images/i.jpg"
+                            src="images/i.webp"
                             text="Explore Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec efficitur nibh non tempor tempor."
                             label="Special Location Events"
                             path="/blogarticlepage"
